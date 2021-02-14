@@ -1,4 +1,4 @@
-# Dmitri's Engineering Manager's reading list
+# Engineering Manager's reading list
 
 ## People Management and Leadership
 

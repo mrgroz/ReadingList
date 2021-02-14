@@ -1,6 +1,7 @@
 # Dmitri's Engineering Manager's reading list
 
-#People Management and Leadership
+# People Management and Leadership
+
 "Radical candor" by Kim Scott
 "Turn the ship around" by David Marquet
 "Trillion dollar coach" by Eric Schmidt, Jonathan Rosenberg and Alan Eagle
@@ -10,7 +11,8 @@
 "The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni
 "Rework" by Jason Fried and DHH
 
-#Product Management and Innovation
+# Product Management and Innovation
+
 "Inspired" by Marty Cagan
 "Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework" by Mik Kersten
 "Cracking the PM interview" by Gayle Laakmann McDowell and Jackie Bavaro
@@ -18,13 +20,15 @@
 "The innovator's dilemma" by Clayton Christensen
 "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically" by Eric Ries
 
-#Senior Engineering Manager/Director 
+# Senior Engineering Manager/Director 
+
 "An Elegant Puzzle: Systems of Engineering" by Will Larson
 "The hard thing about hard things: building a business when there are no easy answers" by Ben Horowitz
 "A Seat at the Table: IT Leadership in the Age of Agility" by Mark Schwartz
 "The Adventures of an IT Leader" by Robert Austin
 
-#Psychology and communication
+# Psychology and communication
+
 "Drive: The Surprising Truth About What Motivates Us" by Daniel Pink
 "Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes" by Alfie Kohn
 "Nonviolent Communication" by Marshall Rosenberg 
@@ -37,7 +41,8 @@
 "Creativity, Inc." by Ed Catmull
 "The Culture Map: Breaking Through the Invisible Boundaries of Global Business" by Erin Meyer
 
-#Writing and speaking
+# Writing and speaking
+
 "Made to stick" by Chip and Dan Heath
 "Hooked: Write Fiction That Grabs Readers at Page One & Never Lets Them Go" by Les Edgerton
 

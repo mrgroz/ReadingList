@@ -20,7 +20,7 @@
 "The innovator's dilemma" by Clayton Christensen  
 "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically" by Eric Ries  
 
-## Senior Engineering Manager/Director 
+## Managing large organizations
 
 "An Elegant Puzzle: Systems of Engineering" by Will Larson  
 "The hard thing about hard things: building a business when there are no easy answers" by Ben Horowitz  

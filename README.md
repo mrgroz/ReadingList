@@ -4,6 +4,7 @@
 
 "Radical candor" by Kim Scott  
 "Turn the ship around" by David Marquet  
+"Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp
 "Trillion dollar coach" by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
 "Leaders eat last" by Simon Sinek  
 "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" by Marcus Buckingham and Ashley Goodall  

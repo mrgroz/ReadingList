@@ -15,6 +15,7 @@
 ## Product Management and Innovation
 
 * "Inspired" by Marty Cagan  
+* "Empowered" by Marty Cagan  
 * "Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework" by Mik Kersten  
 * "Cracking the PM interview" by Gayle Laakmann McDowell and Jackie Bavaro  
 * "Lean Enterprise: How High Performance Organizations Innovate at Scale" by Jez Humble  

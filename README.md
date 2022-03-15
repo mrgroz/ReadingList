@@ -24,7 +24,8 @@
 
 ## Managing large organizations
 
-* "An Elegant Puzzle: Systems of Engineering" by Will Larson  
+* "An Elegant Puzzle: Systems of Engineering" by Will Larson
+* "Team Topologies: Organizing Business and Technology Teams for Fast Flow" by Matthew Skelton   
 * "The hard thing about hard things: building a business when there are no easy answers" by Ben Horowitz  
 * "A Seat at the Table: IT Leadership in the Age of Agility" by Mark Schwartz  
 * "The Adventures of an IT Leader" by Robert Austin  

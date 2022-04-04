@@ -49,3 +49,6 @@
 * "Made to stick" by Chip and Dan Heath  
 * "Hooked: Write Fiction That Grabs Readers at Page One & Never Lets Them Go" by Les Edgerton  
 
+## Team management
+
+* https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf
